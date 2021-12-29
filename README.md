@@ -1,7 +1,7 @@
 # Spring Scheduler
 
 ## 1. 설명
-Spring Scheduler에서 Cron Expression과 Fixed Delay 사용 예제이다.
+Spring Boot Scheduler에서 Cron Expression과 Fixed Delay 사용 예제이다.
 
 ## 2. 개발환경
 
